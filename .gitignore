@@ -1,0 +1,6 @@
+.idea
+main-colors-picker.iml
+
+node_modules
+dist
+coverage
