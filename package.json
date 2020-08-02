@@ -12,7 +12,13 @@
     "test:coverage": "jest --coverage",
     "test:watch": "jest --watch"
   },
-  "keywords": [],
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "colors",
+    "main colors"
+  ],
   "author": {
     "name": "Leonardo Salazar",
     "url": "https://github.com/lsalazarm99"
